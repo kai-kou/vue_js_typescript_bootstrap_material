@@ -4,8 +4,6 @@
 
 ## Usage
 
-Dockerを利用する場合
-
 ```sh
 > cd vue_js_typescript_bootstrap_material
 > docker-compose up -d
@@ -17,5 +15,5 @@ Dockerを利用する場合
 ```
 
 ```sh
-> http://localhost:8080/
+> open http://localhost:8080/
 ```
